@@ -1,0 +1,10 @@
+//
+//  InternalProject.xcconfig
+//  Moments
+//
+//  Created by Monkeybee on 2021/4/4.
+//
+
+#include "BaseProject.xcconfig"
+
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = $(inherited) INTERNAL

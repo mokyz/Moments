@@ -1,0 +1,11 @@
+//
+//  SDKAndDeviceSupport.xcconfig
+//  Moments
+//
+//  Created by Monkeybee on 2021/4/4.
+//
+
+// Deployment
+// 1 - iPhone
+TARGETED_DEVICE_FAMILY = 1
+IPHONEOS_DEPLOYMENT_TARGET = 14.1

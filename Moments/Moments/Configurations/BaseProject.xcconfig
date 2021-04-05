@@ -1,0 +1,11 @@
+//
+//  BaseProject.xcconfig
+//  Moments
+//
+//  Created by Monkeybee on 2021/4/4.
+//
+
+#include "BaseConfigurations.xcconfig"
+#include "CompilerAndLanguage.xcconfig"
+#include "SDKAndDeviceSupport.xcconfig"
+
